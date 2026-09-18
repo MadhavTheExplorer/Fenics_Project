@@ -1,0 +1,13 @@
+title: FEniCS Heat and Structural Optimization Studies
+summary: Legacy FEniCS experiments in transient laser heating, membrane shape optimization, and heat-sink and cantilever topology optimization.
+status: archived
+kind: research
+fields:
+  - finite-element-method
+  - heat-transfer
+  - topology-optimization
+  - scientific-computing
+family: computational-engineering
+featured: false
+started: 2021-01
+links: {}
